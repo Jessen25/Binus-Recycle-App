@@ -8,5 +8,7 @@ The Figma prototype can be found here: https://www.figma.com/file/tpcX0s5DiComLD
 Setup:
 Once the prerequisites are met (database & API), you can begin to clone the "development" branch of the repository and run "npm i" run install all the dependencies.
 The .env file must be configured to your local machine's IP address by opening cmd and running "ipconfig":
+
 BASE_URL=http://[IP HERE, DELETE BRACKETS]:3000
+
 Punch "npm run android clear-cache" into the terminal to start the application
